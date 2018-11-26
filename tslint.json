@@ -1,0 +1,6 @@
+{
+  "extends": ["tslint-config-getresponse-base"],
+  "rules": {
+    "interface-name": false
+  }
+}

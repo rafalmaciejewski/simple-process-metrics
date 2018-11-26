@@ -1,0 +1,9 @@
+.idea/
+*.test.js
+jest.config.js
+tsconfig.json
+tslint.json
+.huskyrc
+.lintstagedrc
+.editorconfig
+.travis.yml
