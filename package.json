@@ -1,6 +1,6 @@
 {
   "name": "simple-process-metrics",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple Node.js process metrics",
   "keywords": [
     "metrics",
@@ -17,6 +17,7 @@
   "license": "MIT",
   "author": "Rafał Maciejewski",
   "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
     "build": "tsc",
     "coveralls": "jest --coverage --coverageReporters=text-lcov | coveralls",
